@@ -1,4 +1,4 @@
-# CrazyBaby
+# CrazyWave
 
 A dynamic landing page designed to demonstrate my front-end development skills, featuring a blend of structured HTML, advanced SCSS styling, and lightweight JavaScript functionality. This project showcases my ability to create responsive and visually engaging layouts using modern CSS techniques like Grid and Flexbox.
 
