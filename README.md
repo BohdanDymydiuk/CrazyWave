@@ -16,4 +16,4 @@ A dynamic landing page designed to demonstrate my front-end development skills, 
   - **JavaScript**: Minimal scripting for dynamic functionality and interactivity.  
   - **Git**: Version control for project management and portfolio presentation.  
 
-[LIVE DEMO](https://bohdandymydiuk.github.io/crazy-baby/)
+[LIVE DEMO](https://bohdandymydiuk.github.io/CrazyWave/)
